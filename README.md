@@ -1,7 +1,9 @@
 # Financial-Inclusion-in-East-Africa
-Moringa week 2 project//CORE
+### Moringa week 2 project//CORE
 
-Overview 
+#### Overview 
+
+Financial inclusion means that individuals and businesses have access to useful and affordable financial products and services that meet their needs – transactions, payments, savings, credit and insurance – delivered in a responsible and sustainable way.
 
 Financial Inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 13.9% of the adult population) have access to or use a commercial bank account.
 
